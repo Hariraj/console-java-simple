@@ -16,7 +16,7 @@
             "name": "ws-machine",
             "type": "docker",
             "source": {
-              "location": "http://beta.codenvy.com/api/recipe/recipega4hxep75ipg04yo/script",
+              "location": "https://beta.codenvy.com/api/recipe/recipega4hxep75ipg04yo/script",
               "type": "recipe"
             },
             "dev": true
